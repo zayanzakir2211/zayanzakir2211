@@ -21,8 +21,7 @@ const zayan = {
   alias:      "Deadhydra",
   location:   "Jhenaidah, Bangladesh 🇧🇩",
   stack:      ["Cloudflare Workers", "Pages", "D1", "HTML/CSS/JS", "Node.js"],
-  currentFocus: ["Building client sites", "Growing Deadhydra brand", "Bug bounty research"],
-  funFact:    "760 commits in a year — and still going ⚡"
+  currentFocus: ["Building client sites", "Growing Deadhydra brand", "Bug bounty research"]
 };
 ```
 
