@@ -94,7 +94,7 @@ I'm a **freelance static website developer** operating under my brand **[Deadhyd
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zayanzakir2211&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zayanzakir2211&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
 
 </div>
 
