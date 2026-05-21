@@ -63,6 +63,8 @@ I'm a **freelance static website developer** operating under my brand **[Deadhyd
 ### 🔐 Security & OS
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -92,7 +94,7 @@ I'm a **freelance static website developer** operating under my brand **[Deadhyd
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zayanzakir2211&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zayanzakir2211&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)](https://git.io/streak-stats)
 
 </div>
 
