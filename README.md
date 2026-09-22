@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-zayan.deadhydra.me-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](https://zayan.deadhydra.me)
 [![GitHub](https://img.shields.io/badge/GitHub-zayanzakir2211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayanzakir2211)
 [![Instagram](https://img.shields.io/badge/Instagram-md.zayanzakir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.zayanzakir/)
-[![Facebook](https://img.shields.io/badge/Facebook-Arka2211-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arka2211)
+[![Facebook](https://img.shields.io/badge/Facebook-md.zayanzakir-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.zayanzakir)
 
 </div>
 
